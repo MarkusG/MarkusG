@@ -21,4 +21,4 @@
 
 </td></tr></table>
 
-Read more about me on my [website](https://markgross.me/).
+Read more about me on my [website](https://markgross.me/about).
