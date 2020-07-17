@@ -1,8 +1,10 @@
 <table><tr><td valign="top" width="33%">
+
 ### Working On
 * [mend](https://github.com/MarkusG/mend) - notetaking application
 
 </td><td valign="top" width="34%">
+
 ### Planning On
 
 * Writing an application in Rust, possibly rewriting [mend](https://github.com/MarkusG/mend)
@@ -10,6 +12,7 @@
 * Getting my foot in the door with a Digital Forensics firm
 
 </td><td valign="top" width="33%">
+
 ### Writing About
 
 * [My last project, hubrelease](https://markgross.me/2020/05/18/hubrelease)
