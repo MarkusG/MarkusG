@@ -1,16 +1,19 @@
-### Hi there 👋
+<table><tr><td valign="top" width="33%">
+### Working On
+* [mend](https://github.com/MarkusG/mend) - notetaking application
 
-<!--
-**MarkusG/MarkusG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td><td valign="top" width="34%">
+### Planning On
+* Writing an application in Rust, possibly rewriting [mend](https://github.com/MarkusG/mend)
+* Learning Python
+* Getting my foot in the door with a Digital Forensics firm
 
-Here are some ideas to get you started:
+</td><td valign="top" width="33%">
+### Writing About
+* [My last project, hubrelease](https://markgross.me/2020/05/18/hubrelease)
+* [Finding $17,000 worth of bitcoin](https://markgross.me/2019/09/28/pastebin-bitcoins)
+* [My first AUR package](https://markgross.me/2019/07/19/first-aur-package)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td></tr></table>
+
+Read more about me on my [website](https://markgross.me/).
