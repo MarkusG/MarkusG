@@ -1,7 +1,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Working On
-* [mend](https://github.com/MarkusG/mend) - notetaking application
+* [mend](https://github.com/MarkusG/mend) - knowledge management application
 
 </td><td valign="top" width="34%">
 
