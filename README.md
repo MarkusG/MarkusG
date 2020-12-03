@@ -1,15 +1,13 @@
 <table><tr><td valign="top" width="33%">
 
 ### Working On
-* [mend](https://github.com/MarkusG/mend) - knowledge management application
+* [Advent of Code 2020!](https://github.com/MarkusG/aoc-2020) - see https://adventofcode.com/ for details
 
 </td><td valign="top" width="34%">
 
 ### Planning On
 
-* Writing an application in Rust, possibly rewriting [mend](https://github.com/MarkusG/mend)
-* Learning Python
-* Getting my foot in the door with a Digital Forensics firm
+* Learning Python better, probably using [this book](https://www.amazon.com/Expert-Python-Programming-practices-programming/dp/1789808898)
 
 </td><td valign="top" width="33%">
 
@@ -20,5 +18,3 @@
 * [My first AUR package](https://markgross.me/2019/07/19/first-aur-package)
 
 </td></tr></table>
-
-Read more about me on my [website](https://markgross.me/about).
