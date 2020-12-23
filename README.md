@@ -1,13 +1,13 @@
 <table><tr><td valign="top" width="33%">
 
 ### Working On
-* [Advent of Code 2020!](https://github.com/MarkusG/aoc-2020) - see https://adventofcode.com/ for details
+* Some super secret data visualization
 
 </td><td valign="top" width="34%">
 
 ### Planning On
 
-* Learning Python better, probably using [this book](https://www.amazon.com/Expert-Python-Programming-practices-programming/dp/1789808898)
+* Making something worthwhile in Rust
 
 </td><td valign="top" width="33%">
 
