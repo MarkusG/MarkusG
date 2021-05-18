@@ -15,6 +15,6 @@
 
 * [Graphing my Room's Temperature](https://markgross.me/ds18b20/)
 * [One of my projects, hubrelease](https://markgross.me/2020/05/18/hubrelease)
-* [Finding $17,000 worth of bitcoin](https://markgross.me/2019/09/28/pastebin-bitcoins)
+* [Finding $17,000 worth of Bitcoin](https://markgross.me/2019/09/28/pastebin-bitcoins)
 
 </td></tr></table>
