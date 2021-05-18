@@ -1,7 +1,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Working On
-* Some super secret data visualization
+* Surviving my last semester of CS coursework
 
 </td><td valign="top" width="34%">
 
@@ -13,8 +13,8 @@
 
 ### Writing About
 
-* [My last project, hubrelease](https://markgross.me/2020/05/18/hubrelease)
+* [Graphing my Room's Temperature](https://markgross.me/ds18b20/)
+* [One of my projects, hubrelease](https://markgross.me/2020/05/18/hubrelease)
 * [Finding $17,000 worth of bitcoin](https://markgross.me/2019/09/28/pastebin-bitcoins)
-* [My first AUR package](https://markgross.me/2019/07/19/first-aur-package)
 
 </td></tr></table>
