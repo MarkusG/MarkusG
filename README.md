@@ -1,8 +1,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Working On
-* Surviving my last semester of CS coursework
-
+* Looking for something worthwhile to do
 </td><td valign="top" width="34%">
 
 ### Planning On
