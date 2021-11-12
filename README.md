@@ -1,7 +1,8 @@
 <table><tr><td valign="top" width="33%">
 
 ### Working On
-* Looking for something worthwhile to do
+* Schoolwork
+* Work-work
 </td><td valign="top" width="34%">
 
 ### Planning On
@@ -12,8 +13,8 @@
 
 ### Writing About
 
-* [Graphing my Room's Temperature](https://markgross.me/ds18b20/)
-* [One of my projects, hubrelease](https://markgross.me/2020/05/18/hubrelease)
-* [Finding $17,000 worth of Bitcoin](https://markgross.me/2019/09/28/pastebin-bitcoins)
+* [A Couple Presentations I Gave at the University of California, Irvine](https://markgross.org/uci-presentations/)
+* [Some Fun C# Activities](https://markgross.org/anonymous-types/)
+* [My Opinions on Passwords](https://markgross.org/stop-truncating-passwords/)
 
 </td></tr></table>
