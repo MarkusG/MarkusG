@@ -13,8 +13,8 @@
 
 ### Writing About
 
-* [A Couple Presentations I Gave at the University of California, Irvine](https://markgross.org/uci-presentations/)
-* [Some Fun C# Activities](https://markgross.org/anonymous-types/)
-* [My Opinions on Passwords](https://markgross.org/stop-truncating-passwords/)
+* [A Couple Presentations I Gave at the University of California, Irvine](https://markgross.org/uci-presentations/](https://markgross.org/2021/10/12/uci-presentations.html)
+* [Some Fun C# Activities](https://markgross.org/anonymous-types/](https://markgross.org/2021/10/12/anonymous-types.html)
+* [My Opinions on Passwords](https://markgross.org/stop-truncating-passwords/](https://markgross.org/2021/08/29/stop-truncating-passwords.html)
 
 </td></tr></table>
