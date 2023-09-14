@@ -13,8 +13,7 @@
 
 ### Writing About
 
-* [A Couple Presentations I Gave at the University of California, Irvine](https://markgross.org/2021/10/12/uci-presentations.html)
-* [Some Fun C# Activities](https://markgross.org/2021/10/12/anonymous-types.html)
-* [My Opinions on Passwords](https://markgross.org/2021/08/29/stop-truncating-passwords.html)
+* [Using Computer Vision to Play a Card Game](https://markgross.org/2023/09/12/setter.html)
+* [A Script I Wrote to Import Pictures From My New Camera](https://markgross.org/2023/06/24/importer.html)
 
 </td></tr></table>
